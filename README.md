@@ -1,4 +1,4 @@
-# Stripe-Sever-Charge
+# Stripe-Server-Charge
 
 A Stripe charge example using a PHP server side script.
 
